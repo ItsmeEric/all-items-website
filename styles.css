@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+#top-header {
+  background-image: url("./assets/img/top-header-background-img.jpg");
+  width: 100%;
+  height: 75px;
+}
