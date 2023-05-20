@@ -2,13 +2,17 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
+  /* background-color: #2796e6; */
 }
 
 #top-header {
-  background-image: url("./assets/img/top-header-background-img.jpg");
-  width: 100%;
+  background: url(./assets/img/top-header-background-img.jpg) no-repeat top
+    center/cover;
+  width: auto;
   height: 75px;
 }
