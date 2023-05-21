@@ -7,12 +7,12 @@
 }
 
 body {
-  /* background-color: #2796e6; */
+  background-color: #2796e6;
 }
 
 #top-header {
-  background: url(./assets/img/top-header-background-img.jpg) no-repeat top
-    center/cover;
-  width: auto;
-  height: 75px;
+  background: url("./assets/img/top-header-background-img.jpg");
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
 }
