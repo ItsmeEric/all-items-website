@@ -25,6 +25,10 @@ body {
 
 header a {
   text-decoration: none;
+  border-radius: 50%;
+  /* border: 1px solid #fff; */
+  /* background-color: #f3f3f3; */
+  /* float: right; */
 }
 
 #ads {
