@@ -26,3 +26,12 @@ body {
 header a {
   text-decoration: none;
 }
+
+#ads {
+  margin: 69px 470px;
+  text-align: center;
+  background-color: #59a5ff;
+  color: #ff3636;
+  font-size: 22px;
+  padding: 10px;
+}
