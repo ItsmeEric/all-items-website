@@ -16,3 +16,13 @@ body {
   background-position: top center;
   background-repeat: no-repeat;
 }
+
+/* header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} */
+
+header a {
+  text-decoration: none;
+}
