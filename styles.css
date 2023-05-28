@@ -19,8 +19,15 @@ body {
 
 nav {
   display: flex;
-  justify-content: space-between;
   align-items: center;
+}
+
+.first-nav p {
+  flex: 1;
+}
+
+.first-nav a {
+  margin: auto;
 }
 
 header a {
@@ -28,7 +35,7 @@ header a {
   border-radius: 50%;
   border: 1px solid #fff;
   background-color: #f3f3f3;
-  padding: 15px;
+  padding: 10px;
 }
 
 #ads {
